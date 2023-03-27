@@ -1,0 +1,27 @@
+{
+    "name": "com.hmthang.editor.utility",
+    "displayName": "Unity package template",
+    "version": "0.0.1",
+    "description": "Editor Utility",
+    "dependencies": {},
+    "keywords": [
+      "unity",
+      "unity3d",
+      "upm",
+      "3d-group",
+      "utility"
+    ],
+    "homepage": "https://github.com/hmthangGitHub/UnityEditorUtility.git",
+    "bugs": {
+      "url": "https://github.com/hmthangGitHub/UnityEditorUtility.git"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git:https://github.com/hmthangGitHub/UnityEditorUtility.git"
+    },
+    "license": "MIT",
+    "author": "hmthang",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }

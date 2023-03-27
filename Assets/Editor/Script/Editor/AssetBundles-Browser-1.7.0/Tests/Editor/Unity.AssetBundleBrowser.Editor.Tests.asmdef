@@ -1,0 +1,15 @@
+{
+    "name": "Unity.AssetBundleBrowser.Editor.Tests",
+    "references": [
+        "Unity.AssetBundleBrowser.Editor",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
+    ],
+	"optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
